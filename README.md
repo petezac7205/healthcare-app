@@ -4,7 +4,7 @@ A full-featured healthcare appointment platform with separate portals for **Pati
 
 ## Website Link 
 
-https://healthcare-f60ibzwld-peter-c694.vercel.app?utm_source=chatgpt.com
+healthcare-l6m0hjbz1-peter-c694.vercel.app
 
 ## 🌟 Features
 
