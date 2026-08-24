@@ -4,7 +4,7 @@ A full-featured healthcare appointment platform with separate portals for **Pati
 
 ## Website Link 
 
-healthcare-l6m0hjbz1-peter-c694.vercel.app
+https://healthcare-l6m0hjbz1-peter-c694.vercel.app/
 
 ## 🌟 Features
 
@@ -301,7 +301,3 @@ Clinical notes: <doctor notes>. Prescription: <prescription JSON>
 2. Set build command: `npm run build`
 3. Set output directory: `dist`
 4. Add environment variable: `VITE_API_URL=<backend-url>`
-
-## 📄 License
-
-MIT
