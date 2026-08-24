@@ -1,4 +1,4 @@
-<img width="476" height="858" alt="image" src="https://github.com/user-attachments/assets/686f7189-86c3-4aa6-833d-aad9eb85adbf" /># HealthSync — Healthcare Appointment & Follow-up Manager
+# HealthSync — Healthcare Appointment & Follow-up Manager
 
 A full-featured healthcare appointment platform with separate portals for **Patients**, **Doctors**, and **Admins**. Built with React, Node.js/Express, and PostgreSQL.
 
